@@ -1,0 +1,8 @@
+streamlit
+streamlit-media-recorder
+opencv-python-headless
+dlib
+imutils
+scipy
+numpy
+matplotlib
