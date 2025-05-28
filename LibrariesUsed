@@ -1,0 +1,31 @@
+streamlit
+streamlit-media-recorder
+opencv-python-headless
+dlib
+imutils
+scipy
+numpy
+matplotlib
+cv2
+numpy
+quickdraw (import QuickDrawData)
+skimage.metrics (import structural_similarity)
+time
+pandas
+torch
+detectron2.engine (import DefaultPredictor)
+detectron2.config (import get_cfg)
+detectron2 (import model_zoo)
+sklearn.metrics.pairwise (import cosine_similarity)
+matplotlib
+os
+moviepy.editor (import VideoFileClip, clips_array)
+urllib.request
+bz2
+dlib
+imutils (import face_utils)
+scipy.spatial (import distance)
+tempfile
+datetime
+matplotlib.pyplot
+google.colab.patches (import cv2_imshow)
