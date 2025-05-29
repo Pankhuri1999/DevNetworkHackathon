@@ -18,13 +18,13 @@ Visualized the comparison with side-by-side video playback and dynamic graphs wi
 differences.
 
 1) Comparsion graph between lip distance for both videos
-![App Screenshot](LipMovementComparison/graph.png)
+![App Screenshot](LipMovementComparison/Output/graph.png)
 
 2) Similarity score between lip movement of two videos 
- ![App Screenshot](LipMovementComparison/similarityScore.png)
+ ![App Screenshot](LipMovementComparison/Output/similarityScore.png)
 
 3) Comparison video  
-![App Screenshot](LipMovementComparison/sideToSideVideoComparisonWithRealTimeScore.png)
+![App Screenshot](LipMovementComparison/Output/sideToSideVideoComparisonWithRealTimeScore.png)
 
 
 
@@ -41,25 +41,25 @@ Calculated similarity scores to quantify motion accuracy.
 Presented results using video overlays and visual graphs, enabling therapists to assess how well the child replicates movements.
 
 1) Key Points of Video 1 in the form of CSV file
-![App Screenshot](PoseEstimation/PoseEstimationKeypointExtractionIndividualVideo1.png)
+![App Screenshot](PoseEstimation/Output/PoseEstimationKeypointExtractionIndividualVideo1.png)
 
 2) Key Points of Video 2 in the form of CSV file
-![App Screenshot](PoseEstimation/PoseEstimationKeypointExtractionIndividualVideo2.png)
+![App Screenshot](PoseEstimation/Output/PoseEstimationKeypointExtractionIndividualVideo2.png)
 
 3) Key Points of combined summary of both videos in the form of CSV file
-![App Screenshot](PoseEstimation/PoseEstimationKeypointExtractionSummaryBothVideos.png)
+![App Screenshot](PoseEstimation/Output/PoseEstimationKeypointExtractionSummaryBothVideos.png)
 
 4)Cosine similarity across each frames in both videos
-![App Screenshot](PoseEstimation/PoseEstimationGraph.png)
+![App Screenshot](PoseEstimation/Output/PoseEstimationGraph.png)
 
 5) Similar Pose comparison across each individual frame in both videos
-![App Screenshot](PoseEstimation/PoseEstimationIndividualPoseComparison.png)
+![App Screenshot](PoseEstimation/Output/PoseEstimationIndividualPoseComparison.png)
 
 6) Similar Pose comparison in skeleton across each individual frame in both videos
-![App Screenshot](PoseEstimation/PoseEstimationIndividualSkeletonPoseComparison.png)
+![App Screenshot](PoseEstimation/Output/PoseEstimationIndividualSkeletonPoseComparison.png)
 
 7) Comparison of both the videos side by side  
-![App Screenshot](PoseEstimation/PoseEstimationSideBySide.png)
+![App Screenshot](PoseEstimation/Output/PoseEstimationSideBySide.png)
 
 
 
@@ -79,14 +79,14 @@ Measured semantic alignment between the prompt and drawing, offering insight int
 
 1) First screen where category for the scribble is chosen
    
-![App Screenshot](QuickDrawScribble/QuickDrawScribbleChooseCategory.png)
+![App Screenshot](QuickDrawScribble/Output/QuickDrawScribbleChooseCategory.png)
 
 2) User scribbles for the category
-![App Screenshot](QuickDrawScribble/QuickDrawScribbleDrawing.png)
+![App Screenshot](QuickDrawScribble/Output/QuickDrawScribbleDrawing.png)
 
 3) User scribble is being compared with the drawing in dataset
 ![App Screenshot](QuickDrawScribble/QuickDrawScribbleResult.png)
 
-
+Remark - Every folder contains the python code of each step. There is a sub-folder 'Output' inside each folder which contains screenshots, graph results, videos and inputs of the code. Please go through that. For any questions or queries, please email me @ pankhuri.nyu@gmail.com
 
 The demo of the video is over here - https://www.youtube.com/watch?feature=shared&v=BwIYqOn4sgs
