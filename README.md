@@ -2,6 +2,9 @@
 This repository contains my attempt for DevNetwork hackathon.
 
 The project contains three steps - 
+
+
+
 🔹 Speech Therapy – Lip Movement Analysis
 In traditional speech therapy, children are guided to pronounce specific words or phrases, while therapists observe and evaluate their articulation. To digitize this process:
 
@@ -15,6 +18,8 @@ Visualized the comparison with side-by-side video playback and dynamic graphs wi
 differences.
 
 
+
+
 🔹 Motor Therapy – Pose Estimation
 Motor therapy often involves mimicking physical activities demonstrated by a therapist. My solution automates this assessment:
 
@@ -25,6 +30,8 @@ Recorded and compared the child’s actions with ideal movement references.
 Calculated similarity scores to quantify motion accuracy.
 
 Presented results using video overlays and visual graphs, enabling therapists to assess how well the child replicates movements.
+
+
 
 
 🔹 Interpretation Therapy – Visual Understanding through Drawing
