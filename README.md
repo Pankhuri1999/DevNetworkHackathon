@@ -85,7 +85,7 @@ Measured semantic alignment between the prompt and drawing, offering insight int
 ![App Screenshot](QuickDrawScribble/Output/QuickDrawScribbleDrawing.png)
 
 3) User scribble is being compared with the drawing in dataset
-![App Screenshot](QuickDrawScribble/QuickDrawScribbleResult.png)
+![App Screenshot](QuickDrawScribble/Output/QuickDrawScribbleResult.png)
 
 Remark - Every folder contains the python code of each step. There is a sub-folder 'Output' inside each folder which contains screenshots, graph results, videos and inputs of the code. Please go through that. For any questions or queries, please email me @ pankhuri.nyu@gmail.com
 
