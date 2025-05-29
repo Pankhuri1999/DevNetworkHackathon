@@ -24,8 +24,8 @@ differences.
  ![App Screenshot](LipMovementComparison/similarityScore.png)
 
 3) Comparison video
-### 🎬 Demo Video
-[Watch the demo video](LipMovementComparison/output_combined (2).avi)
+[Watch Demo Video](LipMovementComparison/output_combined (2).avi)
+
 
 
 
