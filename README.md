@@ -58,8 +58,8 @@ Presented results using video overlays and visual graphs, enabling therapists to
 6) Similar Pose comparison in skeleton across each individual frame in both videos
 ![App Screenshot](PoseEstimation/PoseEstimationIndividualSkeletonPoseComparison.png)
 
-7) Comparison of both the videos side by side
-[Watch Demo Video](media/combined_skeleton_fake.mp4)
+7) Comparison of both the videos side by side  
+![App Screenshot](PoseEstimation/PoseEstimationSideBySide.png)
 
 
 
