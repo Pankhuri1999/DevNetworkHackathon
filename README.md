@@ -17,6 +17,7 @@ Used Euclidean distance to measure the variation in lip positions across video f
 Visualized the comparison with side-by-side video playback and dynamic graphs with score to detect even minor articulation 
 differences.
 
+![App Screenshot](LipMovementComparison/graph.png)
 
 
 
