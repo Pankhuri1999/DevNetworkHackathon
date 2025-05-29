@@ -77,6 +77,15 @@ Compared the child’s drawing to multiple reference samples from QuickDraw.
 
 Measured semantic alignment between the prompt and drawing, offering insight into cognitive and interpretive skills.
 
+1) First screen where category for the scribble is chosen
+![App Screenshot](QuickDrawScribble/QuickDrawScribbleChooseCategory.png)
+
+2) User scribbles for the category
+![App Screenshot](QuickDrawScribble/QuickDrawScribbleDrawing.png)
+
+3) User scribble is being compared with the drawing in dataset
+![App Screenshot](QuickDrawScribble/QuickDrawScribbleResult.png)
+
 
 
 The demo of the video is over here - https://www.youtube.com/watch?feature=shared&v=BwIYqOn4sgs
