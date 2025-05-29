@@ -40,6 +40,28 @@ Calculated similarity scores to quantify motion accuracy.
 
 Presented results using video overlays and visual graphs, enabling therapists to assess how well the child replicates movements.
 
+1) Key Points of Video 1 in the form of CSV file
+![App Screenshot](PoseEstimation/PoseEstimationKeypointExtractionIndividualVideo1.png)
+
+2) Key Points of Video 2 in the form of CSV file
+![App Screenshot](PoseEstimation/PoseEstimationKeypointExtractionIndividualVideo2.png)
+
+3) Key Points of combined summary of both videos in the form of CSV file
+![App Screenshot](PoseEstimation/PoseEstimationKeypointExtractionSummaryBothVideos.png)
+
+4)Cosine similarity across each frames in both videos
+![App Screenshot](PoseEstimation/PoseEstimationGraph.png)
+
+5) Similar Pose comparison across each individual frame in both videos
+![App Screenshot](PoseEstimation/PoseEstimationIndividualPoseComparison.png)
+
+6) Similar Pose comparison in skeleton across each individual frame in both videos
+![App Screenshot](PoseEstimation/PoseEstimationIndividualSkeletonPoseComparison.png)
+
+7) Comparison of both the videos side by side
+[Watch Demo Video](media/combined_skeleton_fake.mp4)
+
+
 
 
 
