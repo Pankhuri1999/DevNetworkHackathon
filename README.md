@@ -23,8 +23,8 @@ differences.
 2) Similarity score between lip movement of two videos 
  ![App Screenshot](LipMovementComparison/similarityScore.png)
 
-3) Comparison video
-[Watch Demo Video](LipMovementComparison/output_combinedVideo.avi)
+3) Comparison video  
+![App Screenshot](LipMovementComparison/sideToSideVideoComparisonWithRealTimeScore.png)
 
 
 
